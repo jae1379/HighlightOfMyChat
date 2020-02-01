@@ -21,11 +21,11 @@ body {
 }
 
 .translucent-bg {
-  /*visibility: visible; */
-  opacity: 100;
+  visibility: hidden;
+  /*opacity: 100; */
   padding: 1vw;
   border-radius: 2px;
-  background: rgba( 0, 0, 0, 1);
+  background: rgba( 0, 0, 0, 0.85);
   position: fixed;
   width: 100%;
 }
