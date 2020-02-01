@@ -21,7 +21,8 @@ body {
 }
 
 .translucent-bg {
-  visibility: visible;
+  /*visibility: visible; */
+  opacity: 1;
   padding: 1vw;
   border-radius: 2px;
   background: rgba( 0, 0, 0, 1);
