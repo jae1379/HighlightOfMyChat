@@ -25,7 +25,7 @@ body {
   /*opacity: 100; */
   padding: 1vw;
   border-radius: 2px;
-  background: rgba( 0, 0, 0, 0.85);
+  background: rgba( 0, 0, 0, 0.5);
   position: fixed;
   width: 100%;
 }
